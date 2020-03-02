@@ -1,3 +1,210 @@
+commit 8921da8e78790d35bde529a11bb56652c053342b
+Author:     Chinmaya Kausik <39112310+Chinmaya-Kausik@users.noreply.github.com>
+AuthorDate: Sat Apr 20 02:48:34 2019 +0530
+Commit:     GitHub <noreply@github.com>
+CommitDate: Sat Apr 20 02:48:34 2019 +0530
+
+    Update chinmaya.md
+
+ _reports/chinmaya/chinmaya.md | 12 +++++++++---
+ 1 file changed, 9 insertions(+), 3 deletions(-)
+
+commit 99cccd49e89a4a1f64b1b283bcaa9840bf54321f
+Author:     Chinmaya Kausik <39112310+Chinmaya-Kausik@users.noreply.github.com>
+AuthorDate: Sat Apr 20 02:42:10 2019 +0530
+Commit:     GitHub <noreply@github.com>
+CommitDate: Sat Apr 20 02:42:10 2019 +0530
+
+    Updated with new contributions
+
+ _reports/chinmaya/chinmaya.md | 8 ++++++++
+ 1 file changed, 8 insertions(+)
+
+commit e98ae755ff15837a541959f2efd34b767c2b67b0
+Author:     Chinmaya Kausik <39112310+Chinmaya-Kausik@users.noreply.github.com>
+AuthorDate: Sat Apr 20 02:27:10 2019 +0530
+Commit:     GitHub <noreply@github.com>
+CommitDate: Sat Apr 20 02:27:10 2019 +0530
+
+    Totality annotations for Lists.idr
+
+ Code/Lists.idr | 6 +++++-
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+
+commit b1f3636f62a4aaef4d5460e19a1bcd08cfc175a0
+Author:     Chinmaya Kausik <39112310+Chinmaya-Kausik@users.noreply.github.com>
+AuthorDate: Sat Apr 20 02:23:40 2019 +0530
+Commit:     GitHub <noreply@github.com>
+CommitDate: Sat Apr 20 02:23:40 2019 +0530
+
+    Totality for RingProperties
+
+ Code/RingProperties.idr | 7 ++++++-
+ 1 file changed, 6 insertions(+), 1 deletion(-)
+
+commit 1e5b4c3a59a1a0acd1246d682785e58bc129b6b4
+Author:     Chinmaya Kausik <39112310+Chinmaya-Kausik@users.noreply.github.com>
+AuthorDate: Sat Apr 20 02:20:59 2019 +0530
+Commit:     GitHub <noreply@github.com>
+CommitDate: Sat Apr 20 02:20:59 2019 +0530
+
+    Update GroupCosetRep.idr
+
+commit 27652c7717d320a61ded9dc173aafcaf96c618a1
+Author:     Chinmaya Kausik <39112310+Chinmaya-Kausik@users.noreply.github.com>
+AuthorDate: Sat Apr 20 02:17:48 2019 +0530
+Commit:     GitHub <noreply@github.com>
+CommitDate: Sat Apr 20 02:17:48 2019 +0530
+
+    Totality annotations for GroupCosetRep
+
+ Code/GroupCosetRep.idr | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit ad4ef34a47886cd5d3fe9a5f18c7693f4daa48c7
+Author:     Chinmaya Kausik <39112310+Chinmaya-Kausik@users.noreply.github.com>
+AuthorDate: Sat Apr 20 02:13:51 2019 +0530
+Commit:     GitHub <noreply@github.com>
+CommitDate: Sat Apr 20 02:13:51 2019 +0530
+
+    GroupCosets with totality annotations
+
+ Code/GroupCosets.idr | 12 +++++++++---
+ 1 file changed, 9 insertions(+), 3 deletions(-)
+
+commit 3e4607a21ae22244b6e9f0a1503b1ffe2d95ff43
+Author:     Chinmaya Kausik <39112310+Chinmaya-Kausik@users.noreply.github.com>
+AuthorDate: Sat Apr 20 02:10:21 2019 +0530
+Commit:     GitHub <noreply@github.com>
+CommitDate: Sat Apr 20 02:10:21 2019 +0530
+
+    BaseN is now total
+
+ Code/BaseN.idr | 138 ++++++++++++++++++++++++++-------------------------------
+ 1 file changed, 62 insertions(+), 76 deletions(-)
+
+commit 42713635212bb06a245c322dc33da35563a8efe7
+Author:     Chinmaya Kausik <39112310+Chinmaya-Kausik@users.noreply.github.com>
+AuthorDate: Fri Apr 19 18:24:50 2019 +0530
+Commit:     GitHub <noreply@github.com>
+CommitDate: Fri Apr 19 18:24:50 2019 +0530
+
+    Transversal multiplication is a homomorphism
+    
+    Proofs that MulTrans is, in some sense, a magma homomorphism
+
+ Code/GroupTransversals.idr | 38 ++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 38 insertions(+)
+
+commit 94c0eede87d7a2e1fa3dbf635fab4c141adad2b3
+Author:     Chinmaya Kausik <39112310+Chinmaya-Kausik@users.noreply.github.com>
+AuthorDate: Fri Apr 19 18:22:42 2019 +0530
+Commit:     GitHub <noreply@github.com>
+CommitDate: Fri Apr 19 18:22:42 2019 +0530
+
+    Alignment for module name and filename
+
+ Code/GroupCosetRep.idr | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit aabc8cd1b3b6bece3d32d3504642788438345eb9
+Author:     Chinmaya Kausik <39112310+Chinmaya-Kausik@users.noreply.github.com>
+AuthorDate: Sun Apr 14 02:42:32 2019 +0530
+Commit:     GitHub <noreply@github.com>
+CommitDate: Sun Apr 14 02:42:32 2019 +0530
+
+    LTE implies lte m n = True
+    
+    Added proof
+
+ Code/NatUtils.idr | 5 +++++
+ 1 file changed, 5 insertions(+)
+
+commit 8c23c20530e8ae4a0aa3f2b0b221b5b76e6e10dd
+Author:     Chinmaya Kausik <39112310+Chinmaya-Kausik@users.noreply.github.com>
+AuthorDate: Sun Apr 14 02:08:41 2019 +0530
+Commit:     GitHub <noreply@github.com>
+CommitDate: Sun Apr 14 02:08:41 2019 +0530
+
+    Totality and FinNatop
+    
+    Made some definitions total, and proved that tofinNat inverts tonatFin
+
+ Code/BaseN.idr | 160 ++++++++++++++++++++++++++++++++++++++++++++++++---------
+ 1 file changed, 135 insertions(+), 25 deletions(-)
+
+commit 9693eb4e15003bbcc23a0a286688350a9cbe6428
+Author:     Chinmaya Kausik <39112310+Chinmaya-Kausik@users.noreply.github.com>
+AuthorDate: Fri Apr 12 22:10:16 2019 +0530
+Commit:     GitHub <noreply@github.com>
+CommitDate: Fri Apr 12 22:10:16 2019 +0530
+
+    Rename Ring.Properties.idr to RingProperties.idr
+
+ Code/{Ring.Properties.idr => RingProperties.idr} | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 888eca995321eda2ec03fdd9137d03bb4c1a2207
+Author:     Chinmaya Kausik <39112310+Chinmaya-Kausik@users.noreply.github.com>
+AuthorDate: Fri Apr 12 22:06:30 2019 +0530
+Commit:     GitHub <noreply@github.com>
+CommitDate: Fri Apr 12 22:06:30 2019 +0530
+
+    Ring.Properties is not an appropriate filename
+
+ Code/RingExamples.idr | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit f06ac6751a38bd8712a7d7e7a369c7728b6c1c73
+Author:     Chinmaya Kausik <39112310+Chinmaya-Kausik@users.noreply.github.com>
+AuthorDate: Fri Apr 12 21:42:40 2019 +0530
+Commit:     GitHub <noreply@github.com>
+CommitDate: Fri Apr 12 21:42:40 2019 +0530
+
+    Fized another import (apologies)
+    
+    Checked the others this time
+
+ Code/RingExamples.idr | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 672e46e88ea97e6d3bb0d8e15671d278c234e7d0
+Author:     Chinmaya Kausik <39112310+Chinmaya-Kausik@users.noreply.github.com>
+AuthorDate: Fri Apr 12 21:23:09 2019 +0530
+Commit:     GitHub <noreply@github.com>
+CommitDate: Fri Apr 12 21:23:09 2019 +0530
+
+    Fixed Ring
+
+ Code/RingExamples.idr | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit cfa0920579de131a79e32532d5197874b51c0b92
+Author:     Chinmaya Kausik <39112310+Chinmaya-Kausik@users.noreply.github.com>
+AuthorDate: Fri Apr 12 20:44:50 2019 +0530
+Commit:     GitHub <noreply@github.com>
+CommitDate: Fri Apr 12 20:44:50 2019 +0530
+
+    Created a file for concrete kinds of rings
+    
+    Proved that the integers form a ring
+
+ Code/RingExamples.idr | 37 +++++++++++++++++++++++++++++++++++++
+ 1 file changed, 37 insertions(+)
+
+commit 1f9126b00b42e17353a5118d086e229e963c7eae
+Author:     Chinmaya Kausik <39112310+Chinmaya-Kausik@users.noreply.github.com>
+AuthorDate: Fri Apr 12 17:04:00 2019 +0530
+Commit:     GitHub <noreply@github.com>
+CommitDate: Fri Apr 12 17:04:00 2019 +0530
+
+    Proofs that for a ring homomorphism f, f(0) = 0
+    
+    Proofs for two kinds of rings. Proving that IRHom is RHom was not coming through
+
+ Code/Ring.Properties.idr | 28 ++++++++++++++++++++++++++++
+ 1 file changed, 28 insertions(+)
+
 commit 9c8b18265a6ec0cb2405aab9c8f2164b796d1c12
 Author:     Chinmaya Kausik <39112310+Chinmaya-Kausik@users.noreply.github.com>
 AuthorDate: Mon Feb 25 10:51:54 2019 +0530
